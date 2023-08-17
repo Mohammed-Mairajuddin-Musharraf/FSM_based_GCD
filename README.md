@@ -1,1 +1,1 @@
-# FSM_based_GCD
+# FSM_based_GCD_algorithmn
